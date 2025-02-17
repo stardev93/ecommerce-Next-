@@ -179,20 +179,6 @@ cd backend && yarn run test
 cd frontend && yarn run test
 ```
 
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/sophiabrandt/nextjs-ecommerce/issues) for a list of proposed features (and known issues).
-
-<!-- CONTACT -->
-
-## Contact
-
-Sophia Brandt - [@hisophiabrandt](https://twitter.com/hisophiabrandt)
-
-Project Link: [https://github.com/sophiabrandt/nextjs-ecommerce](https://github.com/sophiabrandt/nextjs-ecommerce)
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
